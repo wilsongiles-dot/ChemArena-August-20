@@ -1,0 +1,6 @@
+{
+  "name": "ChemArena",
+  "description": "ChemArena — QCAA Chemistry Units 3 & 4 study app featuring active retrieval practice, step-by-step chemical analysis, student achievement tracking, and diagnostic weak-spot detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
